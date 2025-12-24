@@ -2,7 +2,7 @@
 CC = gcc
 
 # Compiler Flags
-CFLAGS = -lncurses -I$(IDIR)
+CFLAGS = -I$(IDIR)
 
 IDIR = ./include/
 SRCDIR = ./src/
